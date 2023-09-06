@@ -1,6 +1,29 @@
 # Tips for nvim native users.
 
-Hello guys this will be only one file you can scroll down to see and learn tips.
+- [Lua](#Lua)
+  - [Comment](#comment)
+  - [Variables](#variables)
+  - [Comparison](#comparison-operators)
+  - [Conditionals](#conditional-statements)
+  - [Combining Statements](#combining-statements)
+  - [Inversion](#invert-value)
+  - [Functions](#functions)
+  - [Scope](#scope)
+  - [Loops](#loops)
+    - [While](#while)
+    - [For](#for)
+  - [Tables](#tables)
+  - [Arrays](#arrays)
+  - [Dictionaries](#dictionaries)
+  - [Nested Tables](#nested-tables)
+  - [Modules](#modules)
+- [Vim Api](#vim-api)
+- [Telescope](#telescope-tips)
+- [Cmdline](#cmdline)
+- [Tmux](#tmux)
+- [Mappings](#mapping)
+- [Telescope and NvimTree](#telescope-and-nvimtree)
+- [Plugins](#plugins)
 
 ## Lua
 
